@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+# Wave Contract 
+thi contract allow users to wave and send messages to the owner, and a random waver gets to win a certain amount of ether.
+users chave to wait a certain amount of specified time before they can wave again.
